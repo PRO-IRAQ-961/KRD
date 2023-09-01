@@ -21,10 +21,19 @@ from rich import print as rprint
 from rich import pretty
 from rich.text import Text as tekz
 import os
-import requests
+from os import path
 import webbrowser
-
-	      
+import os,base64,zlib,pip,urllib,time
+E = '\033[1;31m'
+B = '\033[2;36m'
+G = '\033[1;32m' #ط§ط®ط¶ط±
+S = '\033[1;33m'
+H = "\033[1;93m"
+K = "\033[1;94m"
+L = "\033[1;95m" #ط¨ظ†ظپط³ط¬ظٹ
+C = "\033[1;97m"
+A = "\033[1;91m" #ط§ط­ظ…ط±
+M = "\033[1;96m" #ط§ط²ط±ظ‚ ظپط§طھط­
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
