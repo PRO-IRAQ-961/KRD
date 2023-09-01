@@ -27,7 +27,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙽𝙰𝙼𝙴 :- 𝙼𝚛. 𝙽𝙸𝙺𝙸
+- ➪ 𝙽𝙰𝙼𝙴 :- JDJFJFJ
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
