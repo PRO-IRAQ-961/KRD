@@ -23,35 +23,7 @@ from rich.text import Text as tekz
 import os
 import requests
 import webbrowser
-webbrowser.open('https://t.me/Sajad_stor')
-Z = '\033[1;31m' 
-C = '\033[1;33m'
-Z1 = '\033[2;31m' 
-F = '\033[2;32m' 
-A = '\033[2;34m'
-X  = '\033[1;33m'
-B = '\033[2;36m'
-Y = '\033[1;34m'
-W = "\033[1;37m"
-LO = '––'
-logo = f'''⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷
-{Z}Telegram / PRO TERMUX       
-{W}Telegram / @H0773
-{X}Telegram / @z7_6z
-{Z}Telegram / @BB22FF
-{W} github  / 
-⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷                          
-  < اللهـم قـوة مـن صميـم لطفـك 🖤 >                               
-'''
 
-print(logo)         
-a7aac ="@z7_6z"
-for i in range (2827227272) :
-      pwd = input (f"  {X}             ENTER {Z} PASS {B}:{F} ")
-      j = 2827227272
-      if ( pwd==a7aac) :               
-              break  
-              os.system('clear')         
 	      
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
