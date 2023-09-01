@@ -52,16 +52,7 @@ for i in range (2827227272) :
       if ( pwd==a7aac) :               
               break  
               os.system('clear')         
-E = '\033[1;31m'
-B = '\033[2;36m'
-G = '\033[1;32m' 
-S = '\033[1;33m'
-H = "\033[1;93m"
-K = "\033[1;94m"
-L = "\033[1;95m" 
-C = "\033[1;97m"
-A = "\033[1;91m" 
-M = "\033[1;96m" ­
+	      
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
